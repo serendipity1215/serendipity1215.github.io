@@ -1,0 +1,9 @@
+.tabs{
+	width:26rem;
+	position:fixed;
+	bottom:0;
+	height:3.5rem;
+	background-color: #FFFFFF;
+	font-weight: bold;
+	font-size: 36px;
+}
