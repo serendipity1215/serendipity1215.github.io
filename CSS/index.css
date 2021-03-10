@@ -1,8 +1,8 @@
 .tabs{
-	width:26rem;
+	width:100%;
 	position:fixed;
 	bottom:0;
-	height:3.5rem;
+	height:8rem;
 	background-color: #FFFFFF;
 	font-weight: bold;
 	font-size: 36px;
